@@ -1,0 +1,45 @@
+nav { width: 90%; margin: 0 auto; height: 80px;font-size: 21px;
+    -webkit-box-shadow: 0px 11px 11px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 11px 11px -8px rgba(0,0,0,0.75);
+    box-shadow: 0px 11px 11px -8px rgba(0,0,0,0.75);}
+nav .logo{font-size: 31px;}
+nav #se{position: absolute;top: 20px; bottom: 0; right: 100px;}
+nav #se .search-div{background-color: #E2E2E1;}
+nav #se .search-div input{border: 3px solid black;}
+nav #se .search-div .search-result{font-size: 17px;}
+nav  img{width: 115px;height: auto;}
+nav ul {width: 43%; margin: 0 auto;}
+nav ul li {border-right: 2px solid #000; margin-left:10px; line-height: 10px; padding-right: 10px;}
+nav ul li:last-child{border-right: none;}
+nav span {width: 70px; height: 70px; font-size: 14px; position: relative;top: 10px; text-align: center;}
+nav .prikazBoja{width: 60px; height: 140px; background-color: pink; display: none;
+    position: absolute;
+    top: 80px;
+    right: 20px;}
+nav .prikazBoja .izaberi{width: 100%; height: 20%;}
+nav #plava{background-color: #3e84ff;}
+nav #crvena{background-color: #ff2610;}
+nav #narandzasta{background-color: #ffa70b;}
+nav #zelena{background-color: #29ff94;}
+nav #bela{background-color: #fff;}
+
+
+.lista{width: 100%; height: auto;position: relative;
+    top: 20px; padding-left: 25%;}
+.lista h1{font-size: 46px; margin-bottom: 20px; margin-top: 20px;}
+.lista h4{padding-left: 60px;font-size: 30px;margin-bottom: 0;}
+.lista p{padding-left: 90px;font-size: 17px; margin: 0;}
+
+
+.ft{width: 100%; height: 18px; margin-top:40px;
+    -webkit-box-shadow: 0px -7px 22px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px -7px 22px -8px rgba(0,0,0,0.75);
+    box-shadow: 0px -7px 22px -8px rgba(0,0,0,0.75);}
+
+
+#g{height: 900px;}
+.grafikon{width: 100%;height: 1000px;position: relative;
+    top:100px;}
+
+#mapa{width: 100%;height: 700px; position: relative; top: 100px;}
+
